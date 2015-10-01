@@ -1,6 +1,6 @@
 # Scorched-Earth-for-Arduino
 
-![shot of a screen][https://raw.githubusercontent.com/juherask/Scorched-Earth-for-Arduino/master/skorssi.jpg]
+![shot of a screen](https://raw.githubusercontent.com/juherask/Scorched-Earth-for-Arduino/master/skorssi.jpg)
 
 Scorched earth video game for a Arduino board with 328P.
 
